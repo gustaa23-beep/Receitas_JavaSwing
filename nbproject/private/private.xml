@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/dao/IngredientesDao.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/conexao/Conexao.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/dao/LivrosDao.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/modelo/Ingredientes_Receita.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/dao/RestaurantesDao.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/modelo/Ingredientes.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/dao/EmpregadosDao.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/modelo/Cozinheiros.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/dao/DegustadoresDao.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/modelo/Livros.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/view/JFrame_Cozinheiros.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/view/JFrame_Receitas.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/view/main_JFrame.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/view/JFrame_Categorias.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/view/JFrame_Restaurantes.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/dao/CozinheirosDao.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/dao/CategoriaDao.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/modelo/Empregados.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/modelo/Degustadores.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/view/JFrame_Editores.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/modelo/Editores.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/dao/ReceitasDao.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/modelo/Receitas.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/modelo/Categoria.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/modelo/Restaurantes.java</file>
+            <file>file:/C:/WS-Eclipse%20Neon/Receitas/src/view/JFrame_Livros.java</file>
+        </group>
+    </open-files>
+</project-private>
